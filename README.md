@@ -1,5 +1,7 @@
 # ETL-pipeline
 Scalable ETL Pipeline for Sales Data in AWS using PySpark
+
+
 This project demonstrates how to build a robust and scalable data engineering architecture on AWS using PySpark and AWS Glue. The system is designed to process sales data stored in Amazon S3, perform data transformations with PySpark, and load the results into Amazon Redshift for further analytics.
 
 The project showcases the following:
